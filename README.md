@@ -70,7 +70,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 # 🏢 Companies hiring internationally
 
 | Company name | Location(s) | Careers page |  Stack
-|-------|--------------|---------------|
+|-------|--------------|---------------|------|
 | ARHS Group | Luxembourg 🇱🇺 | https://www.arhs-group.com/careers | java, dotnet
 | Akur8 | Paris 🇫🇷 | https://akur8.com/careers | java, python
 | Applike Group | Hamburg 🇩🇪 | https://applike-group.com/jobs | golang
