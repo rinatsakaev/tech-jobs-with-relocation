@@ -69,73 +69,73 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 # 🏢 Companies hiring internationally
 
-| Company name | Location(s) | Careers page |  
+| Company name | Location(s) | Careers page |  Stack
 |-------|--------------|---------------|
-| ARHS Group | Luxembourg 🇱🇺 | https://www.arhs-group.com/careers |
-| Akur8 | Paris 🇫🇷 | https://akur8.com/careers |
-| Applike Group | Hamburg 🇩🇪 | https://applike-group.com/jobs |
+| ARHS Group | Luxembourg 🇱🇺 | https://www.arhs-group.com/careers | java, dotnet
+| Akur8 | Paris 🇫🇷 | https://akur8.com/careers | java, python
+| Applike Group | Hamburg 🇩🇪 | https://applike-group.com/jobs | golang
 | BandLab | Singapore 🇸🇬 | https://apply.workable.com/bandlabtechnologies |
-| BlaBlaCar | Paris 🇫🇷 | https://blog.blablacar.com/dreamjobs |
+| BlaBlaCar | Paris 🇫🇷 | https://blog.blablacar.com/dreamjobs | java
 | Blinkist | Berlin 🇩🇪 | https://www.blinkist.com/en/jobs |
-| Bol.com | Utrecht 🇳🇱 | https://careers.bol.com/en/jobs |
-| Byborg Enterprises | Luxembourg 🇱🇺 <br> Budapest 🇭🇺 | https://careers.smartrecruiters.com/DoclerHolding |
-| Catawiki | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://catawiki.careers/vacancies |
-| CloudLinux | Remote 🌍 | https://www.cloudlinux.com/about-us-company-jobs |
-| Coolblue | Rotterdam 🇳🇱 | https://www.careersatcoolblue.com |
-| Creative Fabrica | Amsterdam 🇳🇱 | https://boards.eu.greenhouse.io/creativefabrica |
+| Bol.com | Utrecht 🇳🇱 | https://careers.bol.com/en/jobs | java, kotlin
+| Byborg Enterprises | Luxembourg 🇱🇺 <br> Budapest 🇭🇺 | https://careers.smartrecruiters.com/DoclerHolding | php, python
+| Catawiki | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://catawiki.careers/vacancies | any
+| CloudLinux | Remote 🌍 | https://www.cloudlinux.com/about-us-company-jobs | C
+| Coolblue | Rotterdam 🇳🇱 | https://www.careersatcoolblue.com | dotnet
+| Creative Fabrica | Amsterdam 🇳🇱 | https://boards.eu.greenhouse.io/creativefabrica | Go
 | Cube Dev | San Francisco 🇺🇸 | https://cube.dev/careers |
 | e-bot7 | Munich 🇩🇪 | https://e-bot7.com/careers |
 | Elements | Almere 🇳🇱 | https://www.elements.nl/en/careers |
-| ePages | Hamburg 🇩🇪 | https://epages.com/en/career |
+| ePages | Hamburg 🇩🇪 | https://epages.com/en/career | js
 | EPAM | United States 🇺🇸 | https://www.epam.com/careers/job-listings |
 | EVBox | Amsterdam 🇳🇱 | https://evbox.com/en/about/careers |
 | Exness | Limassol 🇨🇾 | https://exness.bamboohr.com/jobs |
 | FINN | Munich 🇩🇪 | https://www.finn.auto/careers |
-| Flow Traders | Amsterdam 🇳🇱 <br> Hong Kong 🇭🇰 | https://www.flowtraders.com/careers |
+| Flow Traders | Amsterdam 🇳🇱 <br> Hong Kong 🇭🇰 | https://www.flowtraders.com/careers | c++, java, python
 | foodspring | Berlin 🇩🇪 | https://www.researchgate.net/careers |
 | GeoPhy | The Hague 🇳🇱 | https://geophy.com/careers |
-| Gnosis | Berlin 🇩🇪 | https://gnosis.io/careers |
-| Greentube | Vienna 🇦🇹 | https://www.greentube.com/careers |
-| HENNGE | Tokyo 🇯🇵 | https://recruit.hennge.com/en/mid-career |
-| Highsnobiety | Berlin 🇩🇪 | https://company.highsnobiety.com/jobs |
-| HomeToGo | Berlin 🇩🇪  <br> Lithuania (Kaunas, Vilnius) 🇱🇹| https://www.hometogo.com/careers |
-| HousingAnywhere | Rotterdam 🇳🇱 | https://careers.housinganywhere.com |
-| Intropic | London 🇬🇧 | https://jobs.lever.co/intropic |
-| JOIN | Berlin 🇩🇪 | https://join.com/companies/join |
-| Journi | Vienna 🇦🇹 | https://www.journiapp.com/careers |
-| Jumbo | Veghel 🇳🇱 | https://jobs.jumbo.com/en/tech |
-| Just Eat Takeaway.com | Amsterdam 🇳🇱 <br> London 🇬🇧 | https://careers.justeattakeaway.com/global/en |
-| Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
-| Lightspeed | Auckland 🇳🇿 | https://boards.greenhouse.io/lightspeedhq |
+| Gnosis | Berlin 🇩🇪 | https://gnosis.io/careers | typescript, go
+| Greentube | Vienna 🇦🇹 | https://www.greentube.com/careers | dotnet
+| HENNGE | Tokyo 🇯🇵 | https://recruit.hennge.com/en/mid-career | go, python
+| Highsnobiety | Berlin 🇩🇪 | https://company.highsnobiety.com/jobs | react, nodejs
+| HomeToGo | Berlin 🇩🇪  <br> Lithuania (Kaunas, Vilnius) 🇱🇹| https://www.hometogo.com/careers | php
+| HousingAnywhere | Rotterdam 🇳🇱 | https://careers.housinganywhere.com | Go, Typescript, Javascript, NodeJS
+| Intropic | London 🇬🇧 | https://jobs.lever.co/intropic | python
+| JOIN | Berlin 🇩🇪 | https://join.com/companies/join | nodejs
+| Journi | Vienna 🇦🇹 | https://www.journiapp.com/careers | java, scala, any jvm
+| Jumbo | Veghel 🇳🇱 | https://jobs.jumbo.com/en/tech | java, js
+| Just Eat Takeaway.com | Amsterdam 🇳🇱 <br> London 🇬🇧 | https://careers.justeattakeaway.com/global/en | .net, java, kotlin
+| Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com | typescript
+| Lightspeed | Auckland 🇳🇿 | https://boards.greenhouse.io/lightspeedhq | python, java, go
 | LINE Fukuoka | Fukuoka 🇯🇵 | https://linefukuoka.co.jp/en/career/engineer |
 | LOOP | Austria (Salzburg, Vienna) 🇦🇹 | https://www.agentur-loop.com/careers |
-| Manychat | Barcelona 🇪🇸 <br> Yerevan 🇦🇲 | https://careers.manychat.com/#vacancies |
+| Manychat | Barcelona 🇪🇸 <br> Yerevan 🇦🇲 | https://careers.manychat.com/#vacancies | php
 | Mercari | Tokyo 🇯🇵 | https://careers.mercari.com |
-| Mollie | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://jobs.mollie.com |
-| Monzo | London 🇬🇧 | https://monzo.com/careers |
+| Mollie | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://jobs.mollie.com | php, any
+| Monzo | London 🇬🇧 | https://monzo.com/careers | go
 | movingimage | Berlin 🇩🇪 | https://www.movingimage.com/careers/#jobs |
-| Mujin | Tokyo 🇯🇵 | https://jobs.lever.co/mujininc |
-| Multiverse Computing | San Sebastian 🇪🇸 | https://multiversecomputing.com/join-us |
+| Mujin | Tokyo 🇯🇵 | https://jobs.lever.co/mujininc | c++, python
+| Multiverse Computing | San Sebastian 🇪🇸 | https://multiversecomputing.com/join-us | python, c, c++
 | NavVis | Munich 🇩🇪 | https://www.navvis.com/company/careers |
-| Neocom | Munich 🇩🇪 | https://www.neocom.ai/careers#section-job-openings |
+| Neocom | Munich 🇩🇪 | https://www.neocom.ai/careers#section-job-openings | python, go
 | Oda | Berlin 🇩🇪 <br> Oslo 🇳🇴 | https://careers.oda.com/jobs |
 | OJ Electronics | Sønderborg 🇩🇰 | https://ojelectronics.com/career |
-| Optum | Ireland (Dublin, Letterkenny) 🇮🇪 | https://careers.unitedhealthgroup.com/optum-ireland |
-| Oxbotica | Oxford 🇬🇧 | https://www.oxbotica.com/our-people |
+| Optum | Ireland (Dublin, Letterkenny) 🇮🇪 | https://careers.unitedhealthgroup.com/optum-ireland | java
+| Oxbotica | Oxford 🇬🇧 | https://www.oxbotica.com/our-people | python, c++
 | PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
-| PhotoRoom | Paris 🇫🇷 | https://jobs.lever.co/photoroom |
-| Picnic | Amsterdam 🇳🇱 | https://picnic.app/careers/all-jobs |
+| PhotoRoom | Paris 🇫🇷 | https://jobs.lever.co/photoroom | java
+| Picnic | Amsterdam 🇳🇱 | https://picnic.app/careers/all-jobs | java
 | QuadSAT | Odense 🇩🇰 | https://quadsat.com/career |
 | Queue-it | Copenhagen 🇩🇰 | https://careers.queue-it.com/jobs |
-| Reaktor | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://www.reaktor.com/careers |
-| Runtastic | Austria 🇦🇹 | https://www.runtastic.com/career/jobs |
+| Reaktor | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://www.reaktor.com/careers | typescript, java, python
+| Runtastic | Austria 🇦🇹 | https://www.runtastic.com/career/jobs | java
 | Scout24 | Berlin 🇩🇪 | http://jobs.scout24.com |
-| Seldon | UK (London, Cambridge) 🇬🇧 | https://www.seldon.io/careers |
-| Shape | Copenhagen 🇩🇰 | https://shape.dk/careers |
+| Seldon | UK (London, Cambridge) 🇬🇧 | https://www.seldon.io/careers | golang, python
+| Shape | Copenhagen 🇩🇰 | https://shape.dk/careers | kotlin, java
 | Shape Games | Copenhagen 🇩🇰 | https://careers.shapegames.com/jobs |
-| SimScale | Munich 🇩🇪 | https://www.simscale.com/jobs |
+| SimScale | Munich 🇩🇪 | https://www.simscale.com/jobs | java
 | Smallpdf | Zurich 🇨🇭 | https://smallpdf.com/careers |
-| Smartly.io | Helsinki 🇫🇮 | https://www.smartly.io/careers |
+| Smartly.io | Helsinki 🇫🇮 | https://www.smartly.io/careers | nodejs, typescript
 | SmartNews | Tokyo 🇯🇵 | https://apply.workable.com/smartnews |
 | Solsten | Berlin 🇩🇪 | https://boards.greenhouse.io/solsten |
 | Solvians | Germany (Berlin, Frankfurt, Göttingen) 🇩🇪 | https://www.solvians.com/career |
